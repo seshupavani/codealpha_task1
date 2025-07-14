@@ -69,3 +69,16 @@ If you find this project useful, give it a ⭐️ on GitHub!
 Built with ❤️ by Kotha Seshupavani
 
 ## 📝 **How to Use This README**
+
+✅ Replace:
+- `your-username` with your GitHub username.
+- `[Your Name]` with your actual name.
+- Add a real LICENSE file if you want one (MIT, Apache 2.0, etc.).
+
+✅ Save this file as `README.md` in your project root.
+
+✅ Commit and push it to GitHub:
+```bash
+git add README.md
+git commit -m "Add project README"
+git push origin main
